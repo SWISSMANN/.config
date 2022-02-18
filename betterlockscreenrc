@@ -1,0 +1,45 @@
+#    ___________      __.___  _________ _________   _____      _____    _______    _______     #
+#   /   _____/  \    /  \   |/   _____//   _____/  /     \    /  _  \   \      \   \      \    #
+#   \_____  \\   \/\/   /   |\_____  \ \_____  \  /  \ /  \  /  /_\  \  /   |   \  /   |   \   #
+#   /        \\        /|   |/        \/        \/    Y    \/    |    \/    |    \/    |    \  #
+#  /_______  / \__/\  / |___/_______  /_______  /\____|__  /\____|__  /\____|__  /\____|__  /  #
+#          \/       \/              \/        \/         \/         \/         \/         \/   #
+#                                                                                              #
+#  ##########################################################################################  #
+
+
+# ~/.config/betterlockscreenrc
+# default options
+display_on=0
+span_image=false
+lock_timeout=300
+fx_list=(dim blur dimblur pixel dimpixel color)
+dim_level=40
+blur_level=0.6
+pixel_scale=10,1000
+solid_color=333333
+wallpaper_cmd="feh --bg-fill"
+# i3lockcolor_bin="i3lock-color" # Manually set command for i3lock-color
+
+# default theme
+loginbox=00000066
+loginshadow=00000000
+locktext="Why so Serious ?!"
+font="Hasklug Nerd Font"
+ringcolor=71868A
+insidecolor=00000000
+separatorcolor=00000000
+ringvercolor=ffffffff
+insidevercolor=00000000
+ringwrongcolor=ffffffff
+insidewrongcolor=235363
+timecolor=71868A
+time_format="%H:%M"
+greetercolor=71868A
+layoutcolor=71868A
+keyhlcolor=235363
+bshlcolor=235363
+verifcolor=71868A
+wrongcolor=235363
+modifcolor=235363
+bgcolor=000000ff
