@@ -1,0 +1,50 @@
+window:
+  padding:
+    x: 25
+    y: 25
+    opacity: 0.7
+  dynamic_padding: false
+  title: Alacritty
+  class:
+    instance: Alacritty
+    general: Alacritty
+scrolling:
+  history: 10000
+font:
+  normal:
+    family: Hasklug Nerd Font 
+    style: Regular
+  bold:
+    family: Hasklug Nerd Font
+    style: Bold
+  italic:
+    family: Hasklug Nerd Font
+    style: Italic
+  bold_italic:
+    family: Hasklug Nerd Font
+    style: Bold Italic
+draw_bold_text_with_bright_colors: true
+colors: 
+  primary:
+    background: '#0B060F'
+    foreground: '#A2C0C6'
+
+  normal:
+    black:   '#060608'
+    red:     '#2B506D'
+    green:   '#485F6F'
+    yellow:  '#2F6A94'
+    blue:    '#487494'
+    magenta: '#538EAF'
+    cyan:    '#4D9ECF'
+    white:   '#A2CAE3'
+
+  bright:
+    black:   '#718D9E'
+    red:     '#2B506D'
+    green:   '#485F6F'
+    yellow:  '#2F6A94'
+    blue:    '#487494'
+    magenta: '#538EAF'
+    cyan:    '#4D9ECF'
+    white:   '#A2CAE3'
